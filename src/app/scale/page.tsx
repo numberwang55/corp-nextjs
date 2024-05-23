@@ -1,3 +1,3 @@
 export default function ScalePage() {
-    <div>Scale Page</div>
+    return <div>Scale Page</div>
 }
