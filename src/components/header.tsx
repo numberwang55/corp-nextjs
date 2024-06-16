@@ -8,3 +8,4 @@ export default function Header() {
     <Link href="/scale">scale</Link>
   </div>;
 }
+
